@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a nurse researcher who focuses on the importance of family stories, especially for children. I am particularly interested in the wisdom of grandmothers!
 
 ## Current Interests and Projects:
 
